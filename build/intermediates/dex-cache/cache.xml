@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3523382fddabf406e2cc2bc48083d9906083fb82">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2ec4728190c41309bb41606df6b7c37ab7e2e85f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.20.0_656b0bfa91d2b2c120010b45654b5bd202083a17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.0_13202d3f2bfa5f8599c4d646760cc3ec614c0a00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.20.0_ecbddfbec45acd3cd29bf4e7140ab0663ba24946\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.0_9c26b5fd43e69204fd6dbb7ad18d3e5b523d3bf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.20.0_188c5f72eb6be858b3e056c43f117151e85e0aa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_3e2a7940b7b239f31fa0ae653296e0f3c3e40349\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.0_a2ed42138fed0ab2da45868ec4756a8179f4ddd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.20.0_283c995cacbe0def282f4a488e02aa2f7beffc22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.0_de9646e8d90a7ee6681c77cd39167e105969647f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="97cfd824979482853720c83ebbca4b96fb43c7df">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_59e562871c63463149b537db99ce4dae2bb1ba2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.20.0_cddb2e1e0cca4bd6f33595718a438272ced53454\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.20.0_ec269a146ce71c92bdc7701ef0f69bae91507ae6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.0_a3af1e67ec233029e6630ee32c28e53db18697e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_d8820f64d781491337e5f84059691c26a70994f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.0_ac90bd08b26405385aea7a74333152e4855abb9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aramide\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\aramide\AndroidStudioProjects\JumpOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-13.0_2f88149274e64d033b9e4d3431c5f4af30a32aad\classes.dex" />
+    </item>
+
+</items>
