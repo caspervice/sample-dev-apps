@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
@@ -11,16 +12,23 @@
     tools:context="com.jumpout.cass.jumpout.MainActivity">
 
     <TextView
+        android:text="The SpennyCoin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
-
-    <Button
-        android:text="Button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
+        android:layout_above="@+id/spennycoinsImageView"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="46dp"
-        android:id="@+id/button" />
+        android:layout_marginBottom="32dp"
+        android:id="@+id/textView"
+        android:textSize="36sp"
+        android:textColor="#0099CC"
+        android:textStyle="normal|bold" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/crypto_logo"
+        android:id="@+id/spennycoinsImageView"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>

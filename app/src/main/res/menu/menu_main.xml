@@ -1,6 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="skittles.caspervice.com.projectgeoplot.MainActivity" >
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="skittles.caspervice.com.projectgeoplot.MainActivity">
 
     <item android:id="@+id/action_settings"
         android:title="@string/action_settings"
@@ -12,9 +13,21 @@
         android:orderInCategory="2"
         android:showAsAction="always"/>
 
+    <item android:id="@+id/request_spenny_coins"
+        android:title="Request Beta SpennyCoins"
+        android:orderInCategory="3"
+        android:showAsAction="never"/>
+
     <item android:id="@+id/service_check"
         android:title="Service Callback Check"
-        android:orderInCategory="3"
+        android:orderInCategory="4"
         android:showAsAction="always" />
+
+    <item android:id="@+id/voice_search"
+        android:title="CasperSearch Beta β"
+        android:showAsAction="always"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_mic_dark"
+        android:orderInCategory="5" />
 
 </menu>

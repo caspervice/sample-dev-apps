@@ -11,6 +11,7 @@ import com.google.api.client.extensions.android.json.AndroidJsonFactory;
 import com.google.api.client.googleapis.services.AbstractGoogleClientRequest;
 import com.google.api.client.googleapis.services.GoogleClientRequestInitializer;
 import com.jumpout.cass.jumpout.MainActivity;
+import com.jumpout.cass.jumpout.SpennyCoinsProgress;
 
 import java.io.IOException;
 
@@ -83,6 +84,7 @@ public class EndpointsAsyncTask extends AsyncTask<Pair<Context, String>, Void, S
         //execute callback to Ui...
         if (result != null)
         {
+
             this.mainActivity.notifyEndPointRequestResult(result);
 //            Toast.makeText(this.cTx, result, Toast.LENGTH_LONG).show();
         }
